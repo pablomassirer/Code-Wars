@@ -1,2 +1,2 @@
 # CodeWars
-Challenges solved from website https://www.codewars.com/
+Challenges solved from https://www.codewars.com/
